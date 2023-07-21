@@ -1,0 +1,250 @@
+body {
+    background-image: url("https://cdn.dribbble.com/users/405145/screenshots/15025890/media/b5580ed13abe4a098c8036854c706b76.png?resize=800x600&vertical=center");
+  }
+  
+  .container {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .card-1 {
+    position: relative;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+    margin: 30px;
+    max-width: 300px;
+    background: lightsteelblue;
+    border: solid 1px lightblue;
+    border-radius: 30px;
+    display: flexbox;
+    justify-content: center;
+    word-wrap: break-word;
+    font-family: 'Courier New', Courier, monospace;
+
+  }
+
+  .card-1 h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    justify-content: center;
+    border-bottom: solid 1px lightblue;
+  }
+
+  .card-1 h2 {
+    font-weight: bold;
+  }
+
+  .card-1 footer {
+    font-size: .8em;
+  }
+
+  .availability {
+    font-size: small;
+    border: solid 10px grey;
+    background-color: grey;
+    color:yellow;
+  }
+
+  .card-2 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: 30px;
+    max-width: 300px;
+    border: solid 1px lightblue;
+    background: lightsteelblue;
+    border-radius: 30px;
+    display: flexbox;
+    justify-content: center;
+    word-wrap: break-word;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .card-2 h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    justify-content: center;
+    border-bottom: solid 1px lightblue;
+  }
+
+  .card-2 h2 {
+    font-weight: bold;
+  }
+
+  .card-2 footer {
+    font-size: .8em;
+  }
+
+  .availability {
+    border: solid 5px grey;
+    background-color: grey;
+    color:yellow;
+  }
+
+  .card-3 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: 30px;
+    max-width: 300px;
+    border: solid 1px lightblue;
+    background: lightsteelblue;
+    border-radius: 30px;
+    display: flexbox;
+    justify-content: center;
+    word-wrap: break-word;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .card-3 h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    justify-content: center;
+    border-bottom: solid 1px lightblue;
+  }
+
+  .card-3 h2 {
+    font-weight: bold;
+  }
+
+  .card-3 footer {
+    font-size: .8em;
+  }
+
+  .availability {
+    font-size: small;
+    border: solid 5px grey;
+    background-color: grey;
+    color:yellow;
+  }
+
+  .card-4 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: 30px;
+    max-width: 300px;
+    border: solid 1px lightblue;
+    background: lightsteelblue;
+    border-radius: 30px;
+    display: flexbox;
+    justify-content: center;
+    word-wrap: break-word;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .card-4 h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    justify-content: center;
+    border-bottom: solid 1px lightblue;
+  }
+
+  .card-4 h2 {
+    font-weight: bold;
+  }
+
+  .card-4 footer {
+    font-size: .8em;
+  }
+
+  .availability {
+    font-size: small;
+    border: solid 5px grey;
+    background-color: solid grey;
+    color:yellow;
+  }
+
+  .card-5 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: 30px;
+    max-width: 300px;
+    border: solid 1px lightblue;
+    background: lightsteelblue;
+    border-radius: 30px;
+    display: flexbox;
+    justify-content: center;
+    word-wrap: break-word;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .card-5 h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    justify-content: center;
+    border-bottom: solid 1px lightblue;
+  }
+
+  .card-5 h2 {
+    font-weight: bold;
+  }
+
+  .card-5 footer {
+    font-size: .8em;
+  }
+
+  .availability {
+    font-size: small;
+    border: solid 5x grey;
+    background-color: grey;
+    color:yellow;
+  }
+
+
+  .card-6 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: 30px;
+    max-width: 300px;
+    border: solid 1px lightblue;
+    background: lightsteelblue;
+    border-radius: 30px;
+    display: flexbox;
+    justify-content: center;
+    word-wrap: break-word;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .card-6 h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    justify-content: center;
+    border-bottom: solid 1px lightblue;
+  }
+
+  .card-6 h2 {
+    font-weight: bold;
+  }
+
+  .card-6 footer {
+    font-size: .8em;
+  }
+
+  .card-6 availability {
+    font-size: xx-small;
+    border: solid 5px grey;
+    background-color: grey;
+    color:yellow;
+  }
+
+  .uno {
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 10px;
+  }
